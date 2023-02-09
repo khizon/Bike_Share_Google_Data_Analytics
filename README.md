@@ -1,1 +1,5 @@
-# Bike_Share_Google_Data_Analytics
+# Customer Behavior Study for a Bike Sharing Company (Google Data Analyst Certification Capstone Project)
+
+This case study is my capstone project for the Google Data Analytics Certification offered through Coursera. I was given access to ridership data of a bike sharing company based in Chicago. For the purposes of the project, that company will be called Cyclistic. At the time of writing, Cyclistic has a membership program, but non-members (casual users) can still rent bikes. Casual users pay a flat fee for the first 30 minutes, then a usage fee per minute afterwards each ride. Members on the other hand, pay an upfront subscription fee which covers the first 45 minutes of all rides, then a usage fee per minute afterwards.  My goal would be to analyze user behavior between subscribed users (pay monthly) and casual users (pay per ride), and come up with possible suggestions on how to convert casuals, into subscriptions.
+
+For a more detailed write-up please see this [blog post](https://kielhizon.tech/2021/11/converting-casual-bike-share-customers-a-data-analytics-case-study/)
